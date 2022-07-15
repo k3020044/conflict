@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changr left
+=======
+change from right
+>>>>>>> b8206815aeb5a3cd1f7da8bd541bf44684d87bff
